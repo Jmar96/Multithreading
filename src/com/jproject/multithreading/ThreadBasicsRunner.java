@@ -52,6 +52,7 @@ public class ThreadBasicsRunner {
 
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
+		System.out.println();
 
 		// Task1
 		Task1 task1 = new Task1();
